@@ -1,0 +1,4 @@
+/home/thomas/git/kernel/hello-2/CMakeFiles/driver.dir
+/home/thomas/git/kernel/hello-2/CMakeFiles/dummy_target.dir
+/home/thomas/git/kernel/hello-2/CMakeFiles/edit_cache.dir
+/home/thomas/git/kernel/hello-2/CMakeFiles/rebuild_cache.dir

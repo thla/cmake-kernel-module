@@ -1,0 +1,1 @@
+savedcmd_/home/thomas/git/kernel/hello-2/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/thomas/git/kernel/hello-2/Module.symvers -T /home/thomas/git/kernel/hello-2/modules.order -i Module.symvers -e 

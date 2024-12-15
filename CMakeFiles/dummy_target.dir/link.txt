@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdummy_target.a CMakeFiles/dummy_target.dir/hello.c.o
+/usr/bin/ranlib libdummy_target.a
